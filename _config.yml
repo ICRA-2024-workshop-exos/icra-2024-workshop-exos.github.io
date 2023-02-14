@@ -29,7 +29,7 @@ layout: single
 classes: wide
 description: 'Welcome to the IROS 2023 tutorial on Emerging Technologies in Smart Exoskeleton Systems.'
 permalink: pretty
-logo: '/assets/images/logo.png'
+logo: '/assets/images/LogoNoText.png'
 
 # Pagination
 paginate: 5
