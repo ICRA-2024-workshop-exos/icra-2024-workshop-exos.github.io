@@ -1,0 +1,97 @@
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+domain: icra-2023-tutorial-humansubjectsstudies.github.io
+url: 'https://iros-2023-workshop-exo.github.io'
+baseurl: ''
+title: 'Emerging Technologies in Smart Exoskeleton Systems'
+layout: single
+classes: wide
+description: 'Welcome to the IROS 2023 tutorial on Emerging Technologies in Smart Exoskeleton Systems.'
+permalink: pretty
+logo: '/assets/images/logo.png'
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+  layout: single
+  classes: wide
+- title: About
+  url: /about/
+  layout: single
+  classes: wide
+- title: Call for Contributions
+  url: /cfp/
+  layout: single
+  classes: wide
+- title: Schedule
+  url: /schedule/
+  layout: single
+  classes: wide
+- title: Speakers & Organizers
+  url: /speakorg/
+  layout: single
+  classes: wide
+- title: Contact
+  url: /contact/
+  layout: single
+  classes: wide
+- title: Sponsors
+  url: /sponsors/
+  layout: single
+  classes: wide
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "/assets/images/banner.png"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages

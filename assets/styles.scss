@@ -1,0 +1,48 @@
+---
+title: false
+layout: single
+classes: wide
+styles: true
+---
+
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #ffffff !default;
+$accentColour: #05bf85 !default;
+
+// Text colours
+$featureHeadingColour: #ffffff !default;
+$headingColour: #bebebe !default;
+$bodyColour: #384743 !default;
+$linkColour: #4c71b7 !default;
+$hoverColour: #171c61 !default;
+$focusColour: #fa407a !default;
+$captionColour: #171c61 !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: '"Noto Sans", sans-serif',
+  regular: 300,
+  bold: 600,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Comfortaa", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// TIP: Load custom fonts in _config.yaml
+
+@import "alembic";
