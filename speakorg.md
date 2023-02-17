@@ -34,3 +34,6 @@ Enter bio data here.
 
 ![](/assets/images/LogoNoText.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Huanbo Sun](https://is.mpg.de/person/shuanbo)**, Postdoctoral Researcher, Faboratory Lab, Yale School of Engineering and Applied Science, Yale University
+
+![](/assets/images/Yanco.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+**[Holly Yanco](https://www.linkedin.com/in/holly-yanco-59018313)**, Chair, Professor, Distinguished University Professor, NERVE Center Director, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
