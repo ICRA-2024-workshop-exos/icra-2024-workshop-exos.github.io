@@ -28,13 +28,13 @@ Enter bio data here.
 
 ## Organizers
 
-<p ![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}>
+![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
 
-<p ![](/assets/images/Huanbo.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}>
+![](/assets/images/Huanbo.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Huanbo Sun](https://is.mpg.de/person/shuanbo)**, Postdoctoral Researcher, Faboratory Lab, Yale School of Engineering and Applied Science, Yale University
 
-<p ![](/assets/images/cmcdonald.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}>
+![](/assets/images/cmcdonald.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Craig G. McDonald](http://www.linkedin.com/in/craig-g-mcdonald)**, Lead Robotics Engineer, Barrett Technology, LLC
 
 ![](/assets/images/Rebecca.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
