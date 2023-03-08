@@ -37,7 +37,7 @@ Enter bio data here.
 ![](/assets/images/cmcdonald.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Craig G. McDonald](http://www.linkedin.com/in/craig-g-mcdonald)**, Lead Robotics Engineer, Barrett Technology, LLC
 
-![](/assets/images/Rebecca.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+![](/assets/images/Rebecca.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Rebecca Kramer-Bottiglio]([https://is.mpg.de/person/shuanbo](https://seas.yale.edu/faculty-research/faculty-directory/rebecca-kramer-bottiglio))**, Associate Professor, Faboratory Lab, Yale School of Engineering and Applied Science, Yale University
 
 ![](/assets/images/Yanco.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
