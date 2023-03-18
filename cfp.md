@@ -6,16 +6,16 @@ The primary objectives of this workshop are to **explore the breadth of cutting 
 
 We welcome poster contributions from anyone working in exoskeleton research, in application domains such as human augmentation, rehabilitation, and injury prevention and specialties such as sensing, hardware and actuation design, controls, human-factors and human utilization. We hope to represent the breadth of disciplines in exoskeleton research, including mechanical, biomechanical, and electrical engineering, computer science, neurorehabilitation, physical and occupational therapy, and human factors. 
 
-Due to the forward-looking focus of this workshop, content can be in-progress or already published, so long as you can speak to where your work fits in the community and identify implecations and future work building from your work requiring interdisciplinary collaboration. Those with accepted posters will present midway through the workshop, as outlined in the [program schedule](../schedule). 
+Due to the forward-looking focus of this workshop, content can be in-progress or already published, so long as you can speak to where your work fits in the community and identify implications and future work building from your work requiring interdisciplinary collaboration. Those with accepted posters will present midway through the workshop, as outlined in the [program schedule](../schedule). 
 
 **Collaborative "Give 'n Get" Model**
 
-The focus of this workshop is to create forward-looking, interdiscipinary discussions in the area of exoskeleton research. In order to break the ice and encourage fruitful discussions of possible future research directions grounded in current research, poster presenters are asked to include two elements in their teaser slide and poster. 
+The focus of this workshop is to create forward-looking, interdisciplinary discussions in the area of exoskeleton research. In order to break the ice and encourage fruitful discussions of possible future research directions grounded in current research, poster presenters are asked to include two elements in their teaser slide and poster. 
 
 - "give”: the expertise they could contribute to a collaboration.
 - “get”: the expertise they are interested in gaining from a collaborator for a new research idea. 
 
-We anticipate this feature to assist in gaining interdisciplinary feedback and fascilitate a network-building and collaboration-forming environment. See the teaser slide and poster template below for further information on how to incorporate this model into your submission.
+We anticipate this feature to assist in gaining interdisciplinary feedback and facilitate a network-building and collaboration-forming environment. See the teaser slide and poster template below for further information on how to incorporate this model into your submission.
 
 **Submission Content**
 

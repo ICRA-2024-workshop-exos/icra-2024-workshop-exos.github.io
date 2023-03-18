@@ -12,7 +12,7 @@ title: Schedule
 5 min - **Q&A**
 
 25 min - **Speaker 2**, PhD, University Name, 
-*Emerging Technology in Mechnical Design*
+*Emerging Technology in Mechanical Design*
 
 5 min - **Q&A**
 
