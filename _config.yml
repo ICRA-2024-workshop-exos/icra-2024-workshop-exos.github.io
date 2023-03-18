@@ -21,13 +21,13 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-domain: icra-2023-tutorial-humansubjectsstudies.github.io
+domain: iros-2023-workshop-exo.github.io
 url: 'https://iros-2023-workshop-exo.github.io'
 baseurl: ''
 title: 'Emerging Technologies in Smart Exoskeleton Systems'
 layout: single
 classes: wide
-description: 'Welcome to the IROS 2023 tutorial on Emerging Technologies in Smart Exoskeleton Systems.'
+description: 'Welcome to the IROS 2023 workshop on Emerging Technologies in Smart Exoskeleton Systems.'
 permalink: pretty
 logo: '/assets/images/LogoNoText.png'
 
@@ -55,6 +55,10 @@ navigation_header:
   classes: wide
 - title: Speakers & Organizers
   url: /speakorg/
+  layout: single
+  classes: wide
+- title: Virtual Participation
+  url: /virtualparticipation/
   layout: single
   classes: wide
 - title: Contact

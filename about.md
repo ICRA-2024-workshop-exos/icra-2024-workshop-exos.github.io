@@ -1,15 +1,15 @@
 ---
-title: About this tutorial
+title: About this Workshop
 ---
 
 The research space around exoskeletons are varied and diverse, including research in sensing, mechanical design, control, and clinical utilization. Areas of specialization are also centered around the area of the body the exoskeleton targets and the use-case, varying from healthcare, military, to industry support.
 
-The desired outcomes of this tutorial are to:
+The desired outcomes of this workshop are to:
 - to bring together researchers in a common applciation space but a variety of research areas, providing a space for networking and discussion in order to foster interdisciplinary collaborations
 - provide a space to share and receive feedback on cutting-edge and on-going research
 - fascilitate discussions on the emerging research areas and technologies related to exoskeletons as well as the bottlenecks which require interdisciplinary teams
 
-## Tutorial Format ##
+## Workshop Format ##
 Our proposed format consists of four talks from prominent researchers and student posters followed by a panel discussion. The four talks center around prominent areas of exoskeleton research, sensing, mechanical design, control, and clinical utilization. 
 
 Speakers are asked to not only present on their research areas in their respective areas, but also their perspective on future areas of growth, and well as bottlenecks that may be addressed by complmentary research areas or interdisciplinary endevors. 
