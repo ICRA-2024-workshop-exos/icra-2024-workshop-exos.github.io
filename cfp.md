@@ -2,20 +2,31 @@
 title: Call for Contributions
 ---
 
-The primary objectives of this workshop are to **explore the breadth of cutting edge research related to exoskeleton and discuss future directions and interdisciplinary needs**. If your work aligns with this this area and you would contribute and benefit from our discussions, please submit or attend.
+The primary objectives of this workshop are to **explore the breadth of cutting edge research related to exoskeleton and discuss future directions and interdisciplinary needs**. If your work aligns with this area and you would contribute and benefit from our discussions, please submit a poster or attend.
 
-Broadly, we solicit contributions from those working on cutting edge research in the exoskeleton domain. We welcome contributions from anyone working in this space, in academia, industry, or medicine, and in any exoskeleton specialty, including sensing, hardware and actuation design, controls, human-factors and clinical utilization. Those with accepted posters will present midway through the workshop, as outlined in the [program schedule](../schedule), to provide opportunities for networking and interdisplinary discussions related to the workshop theme.
+We welcome poster contributions from anyone working in exoskeleton research, in application domains such as human augmentation, rehabilitation, and injury prevention and specialties such as sensing, hardware and actuation design, controls, human-factors and human utilization. We hope to represent the breadth of disciplines in exoskeleton research, including mechanical, biomechanical, and electrical engineering, computer science, neurorehabilitation, physical and occupational therapy, and human factors. 
 
-We hope to attract contributions from a wide range of engineering, computer science, psychology, physical and occupational therapy, and other related fields, so if you work in this space, don't hesitate to submit directly or [reach out](../contact) with any questions.
+Due to the forward-looking focus of this workshop, content can be in-progress or already published, so long as you can speak to where your work fits in the community and identify implecations and future work building from your work requiring interdisciplinary collaboration. Those with accepted posters will present midway through the workshop, as outlined in the [program schedule](../schedule). 
 
-**Submission Link**
+**Collaborative "Give 'n Get" Model**
 
-Poster Submissions (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). Contributions will be accepted on a **rolling basis** until **September 1, 2023**. To enable potential contributors to plan travel to and registration for the IROS 2023 conference, we guarantee responses by **September 15, 2023**.
+The focus of this workshop is to create forward-looking, interdiscipinary discussions in the area of exoskeleton research. In order to break the ice and encourage fruitful discussions of possible future research directions grounded in current research, poster presenters are asked to include two elements in their teaser slide and poster. 
+
+- "give”: the expertise they could contribute to a collaboration.
+- “get”: the expertise they are interested in gaining from a collaborator for a new research idea. 
+
+We anticipate this feature to assist in gaining interdisciplinary feedback and fascilitate a network-building and collaboration-forming environment. See the teaser slide and poster template below for further information on how to incorporate this model into your submission.
 
 **Submission Content**
 
-We welcome poster submissions for student research related to emerging exoskeleton technologies ready to contribute to a dialogue of where exoskeleton reasearch is heading and the interdisciplinary efforts necessary to tackle emerging challenges. 
-
 Submissions consist of a 150-word abstract and 2 pdf documents:
-- The first is the research poster to present, guidelines will follow those for paper submission presentations. 
+- The first is the research poster to present, guidelines will follow those for paper submission presentations. A template will follow shortly.
 - The second is a teaser slide for the poster introductions, please follow the provided [template](https://docs.google.com/presentation/d/17uaoU4cMFUTzsJXtIPLt9ofote4Oyw8HoGRh8ByW_ys/edit?usp=sharing).
+
+If you have any further questions please [reach out](../contact).
+
+**Submission Link**
+
+Poster Submissions (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). 
+
+Contributions will be accepted on a **rolling basis** until **September 1, 2023**. To enable potential contributors to plan travel to and registration for the IROS 2023 conference, we guarantee responses by **September 15, 2023**.

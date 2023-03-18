@@ -26,7 +26,7 @@ title: Schedule
 5 min - **Q&A**
 
 25 min - **Speaker 4**, PhD, University Name, 
-*Emerging Practices in Clinical Utilization*
+*Emerging Practices in Human Utilization*
 
 5 min - **Q&A**
 
