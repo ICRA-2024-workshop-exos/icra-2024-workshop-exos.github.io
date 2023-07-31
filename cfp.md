@@ -29,4 +29,4 @@ If you have any further questions please [reach out](../contact).
 
 Poster Submissions (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). 
 
-Contributions will be accepted on a **rolling basis** until **September 1, 2023**. To enable potential contributors to plan travel to and registration for the IROS 2023 conference, we guarantee responses by **September 15, 2023**.
+Contributions will be accepted on a **rolling basis** until **March 15, 2024**. To enable potential contributors to plan travel to and registration for the ICRA 2024 conference, we guarantee responses by **March 31, 2024**.

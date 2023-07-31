@@ -20,4 +20,3 @@ The IEEE Robotics and Automation Society [Technical Committee on Wearable Roboti
 [//]: # (images NOT uploaded)
 [//]: # (![](/assets/images/faboratory.png){:height="347px" width="1280px" style="float: left; margin-right: 1em;"})
 [//]: # (![](/assets/images/cifellow.png){:height="347px" width="1280px" style="float: left; margin-right: 1em;"})
-[//]: # (![](/assets/images/barrett.png){:height="347px" width="1280px" style="float: left; margin-right: 1em;"})

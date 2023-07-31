@@ -21,13 +21,13 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-domain: iros-2023-workshop-exo.github.io
-url: 'https://iros-2023-workshop-exo.github.io'
+domain: icra-2024-workshop-exo.github.io
+url: 'https://icra-2024-workshop-exo.github.io'
 baseurl: ''
 title: 'Emerging Technologies in Smart Exoskeleton Systems'
 layout: single
 classes: wide
-description: 'Welcome to the IROS 2023 workshop on Emerging Technologies in Smart Exoskeleton Systems.'
+description: 'Welcome to the ICRA 2024 workshop on Emerging Technologies in Smart Exoskeleton Systems.'
 permalink: pretty
 logo: '/assets/images/LogoNoText.png'
 

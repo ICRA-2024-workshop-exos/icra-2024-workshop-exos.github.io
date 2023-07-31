@@ -1,5 +1,5 @@
 ---
-title: Virttual Participation
+title: Virtual Participation
 ---
 
 Zoom links and a list of poster abstracts will be provided leading up to the workshop. Submit your questions for the workshop speakers [here](https://forms.gle/HwSw48vt2fKVvS5N8).
