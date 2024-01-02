@@ -57,10 +57,9 @@ title: Speakers & Organizers
 
 <p>
     ![](/assets/images/Yanco.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
-    **[Holly Yanco](https://www.linkedin.com/in/holly-yanco-59018313)**, Chair, Professor, Distinguished University Professor, NERVE Center Director, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
+    **[Holly Yanco](https://www.linkedin.com/in/holly-yanco-59018313)**, Chair, Professor, Distinguished University Professor, NERVE Center Director, HRI Lab, Minor School of Computer Science, University of Massachusetts Lowell
 </p>
 
-[//]: # (images uploaded)
 ![](/assets/images/yale.png){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
 ![](/assets/images/UML.png){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
 ![](/assets/images/nerve.jpg){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
