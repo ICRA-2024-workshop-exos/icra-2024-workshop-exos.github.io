@@ -36,6 +36,11 @@ title: Speakers & Organizers
 ## Organizers
 
 <p>
+    <img align="left" width="150" height="200" src=/assets/images/jclark.jpg>
+    **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
+</p>
+
+<p>
     ![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;padding-bottom:20px;"}
     **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
 </p>
@@ -56,10 +61,10 @@ title: Speakers & Organizers
 </p>
 
 [//]: # (images uploaded)
-![](/assets/images/yale.png) {:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
-![](/assets/images/UML.png) {:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
-![](/assets/images/nerve.jpg) {:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
-![](/assets/images/NSF.png) {:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
+![](/assets/images/yale.png){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
+![](/assets/images/UML.png){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
+![](/assets/images/nerve.jpg){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
+![](/assets/images/NSF.png){:height="34.7px" width="128.0px" style="float: left; margin-right: 1em;"}
 
 [//]: # (images NOT uploaded)
 [//]: # (![](/assets/images/faboratory.png){:height="347px" width="1280px" style="float: left; margin-right: 1em;"})
