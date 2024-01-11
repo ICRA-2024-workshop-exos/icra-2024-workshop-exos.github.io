@@ -40,6 +40,11 @@ title: Speakers & Organizers
     **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
 </p>
 
+<p style="max-width: 50%; float: left;">
+    ![](/assets/images/jclark.jpg)
+    **[Janelle P. Clark 2](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
+</p>
+
 <p>
     ![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;padding-bottom:20px;"}
     **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell
