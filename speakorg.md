@@ -17,7 +17,7 @@ Enter bio data here.
 ![](/assets/images/Tucker.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Maegan Tucker](https://maegantucker.com/)**, PhD, Georgia Institute of Technology
 
-Dr. Tucker completed her PhD in the Mechanical and Civil Engineering Department at the California Institute of Technology (Caltech) in May 2023 and will be starting as an Assistant Professor at Georgia Tech in January 2024. Her research is centered around developing systematic methods of achieving stable, robust, and natural bipedal locomotion on lower-body assistive devices, as well as developing human-in-the-loop methods to customize the experimental locomotion based on subjective user feedback. Specifically, Maegan's research has been applied towards achieving dynamically stable crutch-less exoskeleton locomotion for individuals with complete motor paraplegia on the Atalante lower-body exoskeleton. 
+Dr. Tucker is an Assistant Professor at Georgia Tech, completing her PhD in the Mechanical and Civil Engineering Department at the California Institute of Technology (Caltech). Her research is centered around developing systematic methods of achieving stable, robust, and natural bipedal locomotion on lower-body assistive devices, as well as developing human-in-the-loop methods to customize the experimental locomotion based on subjective user feedback. Specifically, Maegan's research has been applied towards achieving dynamically stable crutch-less exoskeleton locomotion for individuals with complete motor paraplegia on the Atalante lower-body exoskeleton. 
 
 ![](/assets/images/LogoNoText.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Richard Nuckols](https://www.nuckolslab.com/)**, PhD, University of Waterloo
