@@ -30,7 +30,7 @@ Enter bio data here.
 ![](/assets/images/jclark.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Janelle P. Clark](http://www.linkedin.com/in/janelle-clark)**, Postdoctoral Researcher, NERVE Center, HRI Lab, Department of Computer Science, University of Massachusetts Lowell                                                                                                                                                                                                                                                                                                                                                                                              #                                                                                                                                                                                                                                                                                                                                                                             
 
-![](/assets/images/Huanbo.png){:height="200px" width="150px" style="float: left; margin-right: 1em;padding-bottom:20px;"}
+![](/assets/images/Huanbo.png){:height="200px" width="150px" align="left" style="margin-right: 1em;padding-bottom:20px;"}
 **[Huanbo Sun](https://is.mpg.de/person/shuanbo)**, Postdoctoral Researcher, Faboratory Lab, Yale School of Engineering and Applied Science, Yale University        
 
 ##
