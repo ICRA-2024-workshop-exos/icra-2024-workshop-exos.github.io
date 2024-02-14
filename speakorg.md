@@ -19,7 +19,7 @@ Monica Malvezzi received the Master's Degree in Mechanical Engineering from the 
 <br style="clear:both" />
 
 ![](/assets/images/LogoNoText.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
-**[Richard Nuckols](https://www.nuckolslab.com/)**, PhD, University of Waterloo
+**[Richard Nuckols](https://www.nuckolslab.com/)**, PhD, University of Massachusetts Lowell
 
 Enter bio data here. 
 

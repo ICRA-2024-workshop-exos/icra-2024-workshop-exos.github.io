@@ -6,7 +6,7 @@ title: Schedule
 
 **60 min - INVITED SPEAKERS**
 
-25 min - **Richard Nuckols**, PhD, University of Waterloo, 
+25 min - **Richard Nuckols**, PhD, University of Massachusetts Lowell, 
 *Emerging Technology in Sensing*
 
 5 min - **Q&A**
