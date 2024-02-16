@@ -18,7 +18,7 @@ Monica Malvezzi received the Master's Degree in Mechanical Engineering from the 
 
 <br style="clear:both" />
 
-![](/assets/images/nuckols.png){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
+![](/assets/images/nuckols.jpg){:height="200px" width="150px" style="float: left; margin-right: 1em;"}
 **[Richard Nuckols](https://www.nuckolslab.com/)**, PhD, University of Massachusetts Lowell
 
 Dr. Nuckols is an assistant professor in Mechanical Engineering at the University of Massachusetts Lowell.  Prior to joining the department in January of 2024, Richard was an assistant professor in Systems Design Engineering at the University of Waterloo and a post-doctoral research associate at the Harvard John A. Paulson School of Engineering and Applied Science. Richard received a PhD in Biomedical Engineering at the University of North Carolina at Chapel Hill and NC State University. Richard’s research aims to bridge the gap between human biomechanics and wearable robotics with the goal of assisting and rehabilitating functional movement. An important aspect of this work is physiological sensing that supports assistive technologies that can be tailored to the needs of the user and adapt with task demands. Richard’s research has shown how ultrasound sensing can take information from muscle contractions to better understand and control the effect of wearable robots.
