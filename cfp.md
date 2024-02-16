@@ -2,7 +2,7 @@
 title: Call for Contributions
 ---
 
-The primary objectives of this workshop are to **explore the breadth of cutting edge research related to exoskeleton and discuss future directions and interdisciplinary needs**. If your work aligns with this area and you would contribute and benefit from our discussions, please submit a poster or attend.
+The primary objectives of this workshop are to **explore the breadth of cutting edge research related to exoskeleton and discuss future directions and interdisciplinary needs**. If your work aligns with this area and you would like to contribute and benefit from our discussions, please join us and consider submitting a poster.
 
 We welcome poster contributions from anyone working in exoskeleton research, in application domains such as human augmentation, rehabilitation, and injury prevention and specialties such as sensing, hardware and actuation design, controls, human-factors and human utilization. We hope to represent the breadth of disciplines in exoskeleton research, including mechanical, biomechanical, and electrical engineering, computer science, neurorehabilitation, physical and occupational therapy, and human factors. 
 
@@ -20,8 +20,9 @@ We anticipate this feature to assist in gaining interdisciplinary feedback and f
 **Submission Content**
 
 Submissions consist of a 150-word abstract and 2 pdf documents:
-- The first is the research poster to present, guidelines will follow those for paper submission presentations. A template will follow shortly.
-- The second is a teaser slide for the poster introductions, please follow the provided [template](https://docs.google.com/presentation/d/17uaoU4cMFUTzsJXtIPLt9ofote4Oyw8HoGRh8ByW_ys/edit?usp=sharing).
+- The first is the research poster to present, guidelines will follow those for posters for the paper submissions. Please follow the provided [poster template](https://docs.google.com/presentation/d/1rbmNOBiwojn1Jiaf2QCUmu2wOBi14VNiM4LgCLWQ35k/edit?usp=sharing).
+
+- The second is a teaser slide for the poster introductions, please follow the provided [teaser template](https://docs.google.com/presentation/d/17uaoU4cMFUTzsJXtIPLt9ofote4Oyw8HoGRh8ByW_ys/edit?usp=sharing).
 
 If you have any further questions please [reach out](../contact).
 
