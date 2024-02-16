@@ -7,7 +7,7 @@ title: Schedule
 **60 min - INVITED SPEAKERS**
 
 25 min - **Richard Nuckols**, PhD, University of Massachusetts Lowell, 
-*Emerging Technology in Sensing*
+*Muscle Based Evaluation and Control of Exoskeletons and Wearable Robotics*
 
 5 min - **Q&A**
 
