@@ -30,4 +30,6 @@ If you have any further questions please [reach out](../contact).
 
 Poster Submissions (alongside attestations of planned conference travel) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). 
 
-Contributions will be accepted until ~~March 15~~ **March 31, 2024**. To enable potential contributors to plan travel to and registration for the ICRA 2024 conference, we guarantee responses by ~~March 31~~ **April 5, 2024**.
+We still have a couple poster spots left! Contributions will be accepted on a rolling basis until May 3rd. 
+
+[comment]: <> (until ~~March 15~~ **March 31, 2024**. To enable potential contributors to plan travel to and registration for the ICRA 2024 conference, we guarantee responses by ~~March 31~~ **April 5, 2024**.)
