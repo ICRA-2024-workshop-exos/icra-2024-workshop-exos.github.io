@@ -28,6 +28,6 @@ If you have any further questions please [reach out](../contact).
 
 **Submission Link**
 
-Poster Submissions (alongside attestations of planned conference travel to enable us to plan hybrid logistics) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). 
+Poster Submissions (alongside attestations of planned conference travel) should be submitted via [this form](https://forms.gle/yrDUjWepNH2Pv1NE8). 
 
 Contributions will be accepted until ~~March 15~~ **March 31, 2024**. To enable potential contributors to plan travel to and registration for the ICRA 2024 conference, we guarantee responses by ~~March 31~~ **April 5, 2024**.
