@@ -45,10 +45,6 @@ navigation_header:
   url: /about/
   layout: single
   classes: wide
-- title: Call for Contributions
-  url: /cfp/
-  layout: single
-  classes: wide
 - title: Schedule
   url: /schedule/
   layout: single
@@ -57,8 +53,16 @@ navigation_header:
   url: /speakorg/
   layout: single
   classes: wide
+- title: Posters
+  url: /posters/
+  layout: single
+  classes: wide
 - title: Asynchronous Participation
   url: /asynchronousparticipation/
+  layout: single
+  classes: wide
+- title: Call for Contributions
+  url: /cfp/
   layout: single
   classes: wide
 - title: Contact
