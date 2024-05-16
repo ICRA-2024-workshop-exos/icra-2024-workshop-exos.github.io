@@ -18,5 +18,5 @@ Speakers are asked to not only present on their research areas in their respecti
 
 **Poster Session:** The poster session provides a platform for researchers to present and receive feedback in various stages of the research process and network with fellow researchers working in the same application domain and in similar and complementary research fields. 
 
-**Speaker Panel:** The workshop finishes with a panel discussion to bring the four speakers together to discuss emerging research areas and new technologies within the interdisciplinary community of exoskeleton research.
+**Speaker Panel:** The workshop finishes with a panel discussion to bring the four speakers together to discuss emerging research areas and new technologies within the interdisciplinary community of exoskeleton research. Submit your questions for the workshop speakers [here](https://app.sli.do/event/bywvai2KwLQYtMKyGpzBhJ).
 

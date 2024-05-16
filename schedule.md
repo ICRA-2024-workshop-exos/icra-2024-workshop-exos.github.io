@@ -29,5 +29,6 @@ title: Schedule
 11:50 - Q&A
 
 11:55 - **Panel Discussion**
+[Submit Questions](https://app.sli.do/event/bywvai2KwLQYtMKyGpzBhJ)
 
 12:25 Thanks and close
